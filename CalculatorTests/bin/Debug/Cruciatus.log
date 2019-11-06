@@ -1,0 +1,364 @@
+[19:34:38] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[19:37:20] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[19:37:29] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[19:41:29] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[19:41:29] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[19:41:40] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[19:41:50] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[19:44:02] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[19:44:02] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3678, 654) ClickablePoint 
+[19:44:02] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[19:44:03] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[19:44:21] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[19:44:21] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[19:44:29] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[19:44:38] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:03:35] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:03:35] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:03:35] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:03:36] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:03:36] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3676, 614) ClickablePoint 
+[20:03:36] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:03:36] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:03:37] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:03:45] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:03:46] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:03:46] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:03:46] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:03:47] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:03:47] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:03:47] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:03:47] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:38:49] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:38:49] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:38:49] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:38:50] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:38:50] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:38:50] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:38:51] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:38:52] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:38:52] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:38:52] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:39:27] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:39:28] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:39:40] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:41:26] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:41:27] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:41:32] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:48:05] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:48:05] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:48:05] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:48:06] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:48:07] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:48:07] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:48:07] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:48:08] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3676, 614) ClickablePoint 
+[20:48:08] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:48:08] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:48:37] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:48:37] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:48:43] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:49:55] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:49:55] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:49:56] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:49:56] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:49:57] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:49:57] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:49:57] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:49:58] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3676, 614) ClickablePoint 
+[20:49:58] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:49:58] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[20:50:19] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:50:19] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:50:19] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[20:50:20] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:50:20] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[20:50:20] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[20:50:21] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[20:50:21] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[20:50:21] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[20:50:22] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:02:46] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:02:46] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3678, 614) ClickablePoint 
+[21:02:46] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:02:47] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:02:48] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:02:48] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:02:48] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:02:49] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:02:49] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:02:49] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:02:50] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3676, 614) ClickablePoint 
+[21:02:50] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:02:51] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:03:01] [Info] Element 'AutomationId: equalsButton' not found 
+[21:03:01] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:04:11] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:04:11] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:04:12] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:04:12] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:04:13] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:04:13] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:04:13] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:04:14] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:04:14] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:04:14] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:04:15] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:04:15] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:04:25] [Info] Element 'AutomationId: addButton' not found 
+[21:04:26] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:04:36] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:04:36] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:04:37] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:04:47] [Info] Element 'AutomationId: addButton' not found 
+[21:04:47] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:05:42] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Open Navigation' element at (3571, 526) ClickablePoint 
+[21:05:52] [Info] Element 'AutomationId: Standard' not found 
+[21:05:53] [Info] Click on 'type: ControlType.Button, uid: Close, name: Close Calculator' element at (4240, 490) ClickablePoint 
+[21:06:25] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:06:26] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3678, 614) ClickablePoint 
+[21:06:26] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:06:27] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:06:27] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:06:37] [Info] Element 'AutomationId: equalsButton' not found 
+[21:06:38] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:07:00] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:07:01] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:07:02] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:07:02] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:07:03] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:07:13] [Info] Element 'AutomationId: equalsButton' not found 
+[21:07:13] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:08:17] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:08:18] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3678, 614) ClickablePoint 
+[21:08:18] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:08:19] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:08:19] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:08:20] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:08:20] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support TextPattern 
+[21:08:20] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support ValuePattern 
+[21:08:20] [Error] Get text from 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' element failed. 
+[21:08:20] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:08:46] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:08:46] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:08:46] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:08:47] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:08:47] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:08:47] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:08:48] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:08:48] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:08:48] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:08:49] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:08:49] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:08:50] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:08:50] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:08:51] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:08:51] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:08:51] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support TextPattern 
+[21:08:51] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support ValuePattern 
+[21:08:51] [Error] Get text from 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' element failed. 
+[21:08:52] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:09:54] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:09:54] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:09:55] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:09:55] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:09:56] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:09:56] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:10:08] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support TextPattern 
+[21:10:08] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support ValuePattern 
+[21:10:08] [Error] Get text from 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' element failed. 
+[21:13:11] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:13:12] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:13:12] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:13:13] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:13:13] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:13:14] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:18:26] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:18:27] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:18:27] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:18:28] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:18:28] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:18:29] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:18:37] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support TextPattern 
+[21:18:37] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' not support ValuePattern 
+[21:18:37] [Error] Get text from 'type: ControlType.Text, uid: CalculatorResults, name: Display is 8' element failed. 
+[21:28:10] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:11] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:28:11] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:28:12] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:28:13] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:28:13] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:28:13] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:28:14] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:28:25] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:25] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:28:25] [Debug] Element 'type: ControlType.Button, uid: num3Button, name: Three' not have ClickablePoint 
+[21:28:26] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) BoundingRectangle center 
+[21:28:37] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:37] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:28:38] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:28:38] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:28:39] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:28:39] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:28:39] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:28:40] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:28:51] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:52] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:28:52] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:28:52] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:53] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:28:53] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:28:53] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:54] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:28:54] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:28:54] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:28:55] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3676, 614) ClickablePoint 
+[21:28:55] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:28:56] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:28:56] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:28:57] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:28:57] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:28:57] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:35:28] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:35:29] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:35:29] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:35:30] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:35:30] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:35:31] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:35:31] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:35:32] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:35:32] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:35:33] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:40:33] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:40:33] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:40:33] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:40:34] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:40:34] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:40:34] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:40:35] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:40:35] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:40:35] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:40:36] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:40:36] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:40:37] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:40:37] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:40:38] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:40:38] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:40:38] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:40:39] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:40:39] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:40:40] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:40:40] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:40:41] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:40:41] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:40:42] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:40:43] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:40:43] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:40:44] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:40:44] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 6' return text using TextPattern 
+[21:40:44] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:49:57] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:49:58] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3678, 654) ClickablePoint 
+[21:49:58] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:50:08] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:50:08] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:50:09] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:50:09] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:50:19] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:50:19] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:50:20] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:50:20] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:50:30] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:50:30] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:50:31] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:50:31] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:50:41] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:50:42] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:50:42] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:50:43] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:50:43] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:50:44] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:50:44] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:50:44] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:50:45] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:50:45] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:50:46] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:50:46] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:50:47] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:50:47] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:50:48] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:50:48] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:50:49] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:50:49] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:50:50] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:50:50] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 6' return text using TextPattern 
+[21:50:50] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:50:51] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:51:01] [Info] Element 'AutomationId: Close' not found 
+[21:51:28] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:51:28] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:51:28] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:51:38] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:51:39] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:51:40] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:51:40] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:51:50] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:51:50] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:51:51] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:51:51] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:52:01] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:52:01] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:52:02] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:52:02] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:52:03] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:52:03] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:52:04] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:52:04] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:52:04] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:52:05] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:52:05] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:52:06] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:52:06] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:52:07] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:52:07] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:52:08] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:52:08] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:52:09] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:52:10] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:52:10] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 6' return text using TextPattern 
+[21:52:10] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:52:11] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:52:50] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:52:50] [Info] Click on 'type: ControlType.ListItem, uid: Scientific, name: Scientific Calculator' element at (3677, 654) ClickablePoint 
+[21:52:50] [Info] Element 'type: ControlType.Text, uid: Header, name: Scientific Calculator mode' return text using TextPattern 
+[21:53:00] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:53:01] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:53:02] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:53:02] [Info] Element 'type: ControlType.Text, uid: HistoryEmpty, name: There’s no history yet' return text using TextPattern 
+[21:53:12] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:53:12] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:53:13] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:53:13] [Info] Element 'type: ControlType.Text, uid: Header, name: Standard Calculator mode' return text using TextPattern 
+[21:53:23] [Info] Element 'AutomationId: ClearHistory' not found 
+[21:53:23] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:53:24] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:53:24] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:53:25] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:53:25] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:53:26] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:53:26] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 8' return text using TextPattern 
+[21:53:26] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:53:27] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (3571, 526) ClickablePoint 
+[21:53:27] [Info] Click on 'type: ControlType.ListItem, uid: Standard, name: Standard Calculator' element at (3677, 614) ClickablePoint 
+[21:53:28] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:53:28] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:53:29] [Info] Click on 'type: ControlType.Button, uid: num5Button, name: Five' element at (3704, 1013) ClickablePoint 
+[21:53:29] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:53:30] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:53:30] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (3904, 1092) ClickablePoint 
+[21:53:31] [Info] Click on 'type: ControlType.Button, uid: num3Button, name: Three' element at (3804, 1092) ClickablePoint 
+[21:53:31] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (3904, 1171) ClickablePoint 
+[21:53:31] [Info] Element 'type: ControlType.Text, uid: ResultTextBlock, name: 6' return text using TextPattern 
+[21:53:32] [Info] Click on 'type: ControlType.Button, uid: ClearHistory, name: Clear all history' element at (4243, 1194) ClickablePoint 
+[21:53:32] [Info] Click on 'type: ControlType.Custom' element at (4240, 490) ClickablePoint 
+[21:53:42] [Info] Element 'AutomationId: Close' not found 

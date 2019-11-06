@@ -1,0 +1,16 @@
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\DemoWinium1.exe.config
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\DemoWinium1.exe
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\DemoWinium1.pdb
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\CalculatorAutomationFramework.dll
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\NLog.dll
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\WindowsInput.dll
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\Winium.Cruciatus.dll
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\CalculatorAutomationFramework.pdb
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\CalculatorAutomationFramework.dll.config
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\NLog.xml
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\WindowsInput.xml
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\bin\Debug\Winium.Cruciatus.xml
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\obj\Debug\DemoWinium1.csprojAssemblyReference.cache
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\obj\Debug\DemoWinium1.csproj.CopyComplete
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\obj\Debug\DemoWinium1.exe
+C:\dev\CSharp\VisualStudioProjects\DemoWinium1\DemoWinium1\obj\Debug\DemoWinium1.pdb
